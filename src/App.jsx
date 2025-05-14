@@ -5,7 +5,6 @@ function App() {
     <main className="relative min-h-screen w-screen overflow-x-hidden">
       <NavBar />
       <Hero />
-      <div className='min-h-full h-full' style={{height: '1200px'}}></div>
       <About />
       <Features />
       <Story />
